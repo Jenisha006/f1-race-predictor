@@ -22,7 +22,7 @@ Python, pandas, scikit-learn, matplotlib, seaborn
 
 ## Dataset
 Historical F1 data (races, results, drivers, constructors, qualifying) —
-[add the source link here, e.g. Kaggle/Ergast]
+[https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020]
 
 ## How to run
 \`\`\`
